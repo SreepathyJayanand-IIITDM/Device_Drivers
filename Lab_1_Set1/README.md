@@ -1,5 +1,5 @@
 ## NOTE 
-Q1 - Given DATE (After 1st Jan 1800) you will get the day 
+Q1 - Given DATE (After 1st Jan 1800) you will get the day of the week 
 
 
 Q2 is written in C language which call some inbuilt executables to get the information required
