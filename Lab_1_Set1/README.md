@@ -8,6 +8,6 @@ Q2 is written in C language which call some inbuilt executables to get the infor
 Some output snippets are attatched as images
 
 
-Q3 is written using C language. After entering the details, the program writes a shell (sendmessage.sh) which when run sends the mail.
+Q3 is written using C language. After entering the details, the program writes a shell script(sendmessage.sh) which when run sends the mail.
 
 
