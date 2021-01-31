@@ -78,7 +78,7 @@ then
 fi
 final=$(expr $final + $dd - 1)
 final=$(expr $final % 7)
-echo Final is 
+
 if [ $final == 0 ]
 then
 	echo Happy Sunday
