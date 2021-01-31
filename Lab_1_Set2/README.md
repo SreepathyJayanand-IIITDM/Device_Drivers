@@ -1,2 +1,3 @@
-##Inference from executing Q2
+## Inference from executing Q2
+
 Although I tried downloading the webpages multiple times during the day, I didn't notice substantial changes in the execution time for the different iterations and on average only a maximum of 10% was the difference between slowest and fastest download times which can also be due to the fluctuations in the internet speed.
