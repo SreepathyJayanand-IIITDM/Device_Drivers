@@ -1,1 +1,0 @@
-curl -url 'smtps://smtp.gmail.com:465' --ssl-reqd --mail-from 'sreepathy0101@gmail.com' --mail-rcpt 'sreepathy0101@gmail.com' --user 'sreepathy0101@gmail.com:{pswd}' -T <(echo -e 'From: sreepathy0101@gmail.com\nTo: sreepathy0101@gmail.com\nSubject: Testing\n\nHello')
