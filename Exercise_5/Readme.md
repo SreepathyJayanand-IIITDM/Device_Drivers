@@ -3,4 +3,4 @@
 
 ## Output_2 - After inserting the module, checking whether it has been listed
 
-## Output_3 - After inserting the module, checking the log message file to find if the module has been executed
+## Output_3 - After inserting the module, checking the log message file to find if the functions defined inside the module is executed
